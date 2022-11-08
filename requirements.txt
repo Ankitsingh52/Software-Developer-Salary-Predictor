@@ -1,0 +1,9 @@
+matplotlib==3.5.1
+numpy==1.23.1
+pandas==1.4.3
+streamlit==1.11.0
+scikit_learn==0.24.1
+Pillow
+pycaret
+streamlit==1.11.1
+streamlit_option_menu==0.3.2
